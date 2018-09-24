@@ -2,6 +2,4 @@
 
 Simple text classifier to predict news groups.
 
-Algorithm used
-
-Multinomial Naive Bayes
+Algorithm used : Multinomial Naive Bayes
